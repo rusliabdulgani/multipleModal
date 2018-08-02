@@ -157,7 +157,7 @@ const styles = StyleSheet.create({
     },
     imageAvatar: {
         width: width,
-        height: 270,
+        height: height*0.38,
         borderTopRightRadius: 5,
         borderTopLeftRadius: 5,
         resizeMode: 'cover'

@@ -34,7 +34,7 @@ export default AppNavigator = StackNavigator(
     },
     {
       headerMode: 'none',
-      initialRouteName: 'TabHome',
+      initialRouteName: 'Login',
     }
   )
   

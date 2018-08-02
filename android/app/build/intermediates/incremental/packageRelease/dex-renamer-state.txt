@@ -1,4 +1,4 @@
-#Thu Aug 02 17:23:20 WIB 2018
+#Fri Aug 03 01:19:04 WIB 2018
 base.0=/Users/admin/Documents/pinc_test_glints/AddModal/android/app/build/intermediates/transforms/dex/release/folders/1000/1f/main
 renamed.0=classes.dex
 file.0=/Users/admin/Documents/pinc_test_glints/AddModal/android/app/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex

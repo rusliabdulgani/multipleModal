@@ -3,6 +3,7 @@ import {
   StyleSheet, 
   Text, 
   View, 
+  Alert,
   Button,
   TouchableOpacity,
   Dimensions,
@@ -40,6 +41,18 @@ export default class Home extends Component {
     this.setState({modals: filteredArray});
   }
 
+  alertConfirmLogout = () => {
+    Alert.alert(
+        'Logout',
+        'Are You sure want to Logout from app?',
+        [
+          {text: 'Cancel', onPress: () => console.log('Cancel Pressed'), style: 'cancel'},
+          {text: 'OK', onPress: () => this.logout()},
+        ],
+        { cancelable: false }
+    )
+  }
+
   logout = () => {
     AsyncStorage.clear()
     this.props.navigation.replace('Login')
@@ -73,8 +86,8 @@ export default class Home extends Component {
         {
           modals
         }
-            {/* <Modal isVisible={this.state.visibleModalWelcome} backdropOpacity={0.5}> */}
-            <Modal isVisible={false} backdropOpacity={0.5}>
+            <Modal isVisible={this.state.visibleModalWelcome} backdropOpacity={0.5}>
+            {/* <Modal isVisible={false} backdropOpacity={0.5}> */}
             <View style={styles.modalContainer}>
                 <Text style={{marginBottom: 100, fontSize: 30}}>Welcome {this.state.userData.email}</Text>
                 <TouchableOpacity onPress={() => this.setState({visibleModalWelcome: false})} style={{width: 100, height: 30, backgroundColor: '#a30000', borderRadius: 5, alignItems: 'center', justifyContent: 'center'}}>
@@ -91,7 +104,7 @@ export default class Home extends Component {
         <Button 
         title="Logout"
         color="#a30000"
-        onPress={() => this.logout()}
+        onPress={() => this.alertConfirmLogout()}
         />
       </View>
     );
