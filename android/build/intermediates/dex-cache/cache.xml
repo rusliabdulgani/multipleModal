@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/2a8f1d6478f1bd05cde4ef5cf78cb986d7810631/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/admin/Documents/pinc_test_glints/AddModal/android/app/build/intermediates/pre-dexed/release/classes_75de41c798a1a1d58b603fb0e84eac8309da63d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/3ec5272cf3c62a1830872b7ddfd6bb288e9c0e70/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/admin/Documents/pinc_test_glints/AddModal/android/app/build/intermediates/pre-dexed/release/classes_6a704af8ebaa9b5e15925d16aeac251e6144e5e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/d74311e81b3cf2102394bfb5677a16bd8e2e49da/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/admin/Documents/pinc_test_glints/AddModal/android/app/build/intermediates/pre-dexed/release/classes_1e65081a3d756bbebce7eec4b87c03f99edb2c77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/0e578d7f8758d3c50a6e6a88b7fa9f9a7be60449/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/admin/Documents/pinc_test_glints/AddModal/android/app/build/intermediates/pre-dexed/release/infer-annotations-4.0_881764173cf070bc636449b1e660049537271874.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/8dfc5153d76066d44a752925500f8e079b3ba246/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="/Users/admin/Documents/pinc_test_glints/AddModal/android/app/build/intermediates/pre-dexed/release/classes_fabee93b9fe462d0c57797f0cf8f84e5d1470a17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/ad9bbd029b3a4ef892555d3791947248cd9f02be/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="/Users/admin/Documents/pinc_test_glints/AddModal/android/app/build/intermediates/pre-dexed/release/classes_3d0b43d0b15ce6d7e55ea9123c4010a9766f308f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/Users/admin/Documents/pinc_test_glints/AddModal/android/app/build/intermediates/pre-dexed/release/okhttp-3.10.0_1d1fc367bb8de28ae143fabeb4efb5fa5c680a4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/333438855b9c2a155d30dee533c2e567fa8459bd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="/Users/admin/Documents/pinc_test_glints/AddModal/android/app/build/intermediates/pre-dexed/release/classes_d5ecd9366704a8768f0bc26a7d82e7bf224b8087.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/admin/Documents/pinc_test_glints/AddModal/android/app/build/intermediates/pre-dexed/release/staticlayout-proxy-1.0_04d004389179e9e40a23b23e1388da712ce9c796.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/1812781dcabc83e061a93791a0a1de36cfd3bdc8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/admin/Documents/pinc_test_glints/AddModal/android/app/build/intermediates/pre-dexed/release/classes_d1c55eb789e29fbfa39f5d223eded239217562ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/admin/Documents/pinc_test_glints/AddModal/android/app/build/intermediates/pre-dexed/release/common-1.0.0_352ea9ba79e7e45f4fb3408cf8b41d4c3172ed76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/85c28722bf65864971d047e689656170caa88151/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/admin/Documents/pinc_test_glints/AddModal/android/app/build/intermediates/pre-dexed/release/classes_74dd3ec5cd8b83d9790714b37f19da977e282894.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/0e578d7f8758d3c50a6e6a88b7fa9f9a7be60449/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Users/admin/Documents/pinc_test_glints/AddModal/android/app/build/intermediates/pre-dexed/release/classes_12b96dfdc67ac30164dba346ca6a86ac5110ea6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/admin/Documents/pinc_test_glints/AddModal/android/app/build/intermediates/pre-dexed/release/common-1.0.0_55ac46d232bc3a7fe0da54155cc3acf0560d7f98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/778e0e4b43d1486a41240e7627a48498b6bcfa11/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/admin/Documents/pinc_test_glints/AddModal/android/app/build/intermediates/pre-dexed/release/classes_527266c4b2bcb20b9e508bcbf93def5a11ce95ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="/Users/admin/Documents/pinc_test_glints/AddModal/android/app/build/intermediates/pre-dexed/release/okhttp-urlconnection-3.10.0_510a3cb0f7c233b26d1ee59a1e26b3512af7e3fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/a36128d213ecbc0ae5ca5f69ba5ec5a619f50d55/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/admin/Documents/pinc_test_glints/AddModal/android/app/build/intermediates/pre-dexed/release/classes_2ea70944c6560b6a115d400fa79e102b0f95c194.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/bd8908b3114a09ec0112f32e373562e71495ee0a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="/Users/admin/Documents/pinc_test_glints/AddModal/android/app/build/intermediates/pre-dexed/release/classes_068818a2e218b8c208d7a47a46d5be4a5f6a4b81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/41dae26f750b1b52e4fd591c4be99502115ab0d1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/admin/Documents/pinc_test_glints/AddModal/android/app/build/intermediates/pre-dexed/release/classes_56b220c7ba0b55ba799787ac49c391df62fc8b5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/admin/Documents/pinc_test_glints/AddModal/android/app/build/intermediates/pre-dexed/release/javax.inject-1_d082dc14909ece9d78a55c3d1c2ea134216e75c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/admin/Documents/pinc_test_glints/AddModal/android/app/build/intermediates/pre-dexed/release/support-annotations-26.1.0_dc90aeee492a9d3f173ffd6803b6d55fea2f0c12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/69b38b281a09a3d4a2b779bc263a13fe030f445d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/admin/Documents/pinc_test_glints/AddModal/android/app/build/intermediates/pre-dexed/release/classes_5083e752b1e8f2928fde68b5b0ee9aa8b12a3f1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/Users/admin/Documents/pinc_test_glints/AddModal/android/app/build/intermediates/pre-dexed/release/okio-1.14.0_fed0d64ad82147a04cf2903c12fb481910593d9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/admin/Documents/pinc_test_glints/AddModal/android/app/build/intermediates/pre-dexed/release/bolts-tasks-1.4.0_3eb4716e38c36af994cfeb934b15309b535ed112.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/8b5578a361d80093fef36a359a57f0fbd0bb2622/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/admin/Documents/pinc_test_glints/AddModal/android/app/build/intermediates/pre-dexed/release/classes_af98b0f2964479d730289c379ae702464139880b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/1ffe037e0512c92378cc6325ca5207682af7cf47/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/admin/Documents/pinc_test_glints/AddModal/android/app/build/intermediates/pre-dexed/release/classes_fb8b55c19089d06b2fdced95828a64de34255f9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/admin/Documents/pinc_test_glints/AddModal/android/app/build/intermediates/pre-dexed/release/jsr305-3.0.0_3c882547cf051a4bd4428b802f45c2ee274126f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/e13e55f825c43ff9c6d4a52aff719bf41ec465e6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
+        <dex dex="/Users/admin/Documents/pinc_test_glints/AddModal/android/app/build/intermediates/pre-dexed/release/classes_e0b872dec5d29ffc371e6a67145ded3cfe91c2bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/2a9de089650e7baf8b88650228b79309f3d8bed3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="/Users/admin/Documents/pinc_test_glints/AddModal/android/app/build/intermediates/pre-dexed/release/classes_2ccd99e3d9b387bde45e9e000f15c4c3e37ed434.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/1043652af00a2e8030382db86e4c988bb8f50842/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="/Users/admin/Documents/pinc_test_glints/AddModal/android/app/build/intermediates/pre-dexed/release/classes_dd093b38dff4962be9524e6b469db4dbcac28a07.jar" />
+    </item>
+
+</items>
